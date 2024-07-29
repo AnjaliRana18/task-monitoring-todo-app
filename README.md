@@ -1,1 +1,1 @@
-It is a web application that helps users manage their tasks by providing an interface for maintaining a to-do list. It features a user-friendly interface for adding, updating, and deleting tasks. The application also allows you to easily track which tasks are complete and which are incomplete, providing a clear overview of your progress.
+
